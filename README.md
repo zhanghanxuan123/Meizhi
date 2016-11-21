@@ -1,5 +1,8 @@
-# Meizhi
-妹纸图
+# Meizhi 
+ 妹纸图
+### 截图
+<img src="https://github.com/zhanghanxuan123/Meizhi/blob/master/ScreenShot/Screenshot01.png" width="340" />
+<img src="https://github.com/zhanghanxuan123/Meizhi/blob/master/ScreenShot/Screenshot02.png" width="340" />
 
 ## APP设计
 
